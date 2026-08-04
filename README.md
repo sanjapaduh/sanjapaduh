@@ -1,13 +1,13 @@
 # Hey 👋 I'm Oleksandr Padukh — Frontend & Java Developer
-[linkedin.com/in/oleksandr-padukh]([https://linkedin.com](https://www.linkedin.com/in/oleksandr-padukh-b36338281/)) • [sanjapaduh@gmail.com](mailto:your.email@gmail.com) • [github.com/sanjapaduh](https://github.com) • Warsaw, Poland
+[linkedin.com/in/oleksandr-padukh](https://www.linkedin.com/in/oleksandr-padukh-b36338281/) • [sanjapaduh@gmail.com](mailto:sanjapaduh@gmail.com) • [github.com/sanjapaduh](https://github.com/sanjapaduh) • Warsaw, Poland
 
 ---
 
-> Frontend & Java Developer building clean, maintainable web interfaces and robust backend automation. Strong in **HTML, CSS, JavaScript, Java(spring) and SQL** — comfortable working across the entire request cycle without constant hand-holding between teams.
+> Frontend & Java Developer building clean, maintainable web interfaces and robust backend automation. Strong in **HTML, CSS, JavaScript, Java (Spring), and SQL** — comfortable working across the entire request cycle without constant hand-holding between teams.
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/-your.email@gmail.com-7B1FA2?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjapaduh@gmail.com)
-[![Location](https://img.shields.io/badge/Warsaw-Poland-4E69C8?style=flat-square)](https://linkedin.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/oleksandr-padukh-b36338281/)
+[![Email](https://img.shields.io/badge/-sanjapaduh@gmail.com-7B1FA2?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjapaduh@gmail.com)
+[![Location](https://img.shields.io/badge/Warsaw-Poland-4E69C8?style=flat-square)](https://www.linkedin.com/in/oleksandr-padukh-b36338281/)
 
 ---
 
@@ -33,8 +33,7 @@
   <img src="https://img.shields.io/badge/REST_API-%23005571.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact" alt="Programming languages most used by Oleksandr Padukh" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjapaduh&layout=compact" alt="Programming languages most used by Oleksandr Padukh" />
 
 ---
 
@@ -46,4 +45,4 @@
 ---
 
 # 📬 Contact / Availability 
-Email: [sanjapaduh@gmail.com](mailto:your.email@gmail.com) — LinkedIn: [linkedin.com/in/oleksandr-padukh](https://linkedin.com) — Location: **Warsaw, Poland (On-site · Hybrid · Remote)**
+Email: [sanjapaduh@gmail.com](mailto:sanjapaduh@gmail.com) — LinkedIn: [linkedin.com/in/oleksandr-padukh](https://www.linkedin.com/in/oleksandr-padukh-b36338281/) — Location: **Warsaw, Poland (On-site · Hybrid · Remote)**
